@@ -9,7 +9,7 @@ I don't just analyze data. I ship production AI tools.
 
 🤖 Featured Projects
 
-NL-to-SQL Agent - Claude API Snowflake Streamlit
+NL-to-SQL Agent — Claude API Snowflake Streamlit
 
 
 Production AI agent that converts plain-English business questions into validated SQL with human-in-the-loop review. Eliminated 10+ hrs/week of manual reporting.
