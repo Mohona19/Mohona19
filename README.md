@@ -2,7 +2,7 @@
 
 ### Senior GTM & Marketing Analytics Professional · AI Agent Builder · Production LLM Systems
 
-🚀 **6+ years** driving GTM, marketing, and revenue analytics across **$1.3B+ commercial portfolios** and **35M+ users** — and building the AI systems that make data answer back.
+🚀 **6+ years** driving GTM, marketing, and revenue analytics across **$1.3B+ commercial portfolios** and **35M+ users** and building the AI systems that make data answer back.
 
 I don't just analyze data. **I ship production AI tools.**
 
