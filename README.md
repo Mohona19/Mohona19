@@ -2,40 +2,67 @@ Hi 👋, I'm Tasmia Afroze
 
 Senior GTM & Marketing Analytics Professional · AI Agent Builder · Production LLM Systems
 
-
 🚀 6+ years driving GTM, marketing, and revenue analytics across $1.3B+ commercial portfolios and 35M+ users — and building the AI systems that make data answer back.
 
-I don't just analyze data. I ship production AI tools:
+I don't just analyze data. I ship production AI tools.
 
 
-🤖 NL-to-SQL Agent — Plain-English querying of enterprise data warehouses via Anthropic Claude API (human-in-the-loop design, Snowflake backend)
-🎯 GTM Attribution Engine — Last Touch, Linear, Markov Chain & Shapley Value models with Claude API-generated executive narratives and budget recommendations
-📊 Growth Intelligence Pipeline — End-to-end lead sourcing, enrichment & scoring via Yelp Fusion API for B2B GTM teams
-📈 Revenue Forecasting Dashboard — Prophet-based time-series forecasting with scenario modeling and BI overlay
+🤖 Featured Projects
+
+NL-to-SQL Agent - Claude API Snowflake Streamlit
+
+
+Production AI agent that converts plain-English business questions into validated SQL with human-in-the-loop review. Eliminated 10+ hrs/week of manual reporting.
 
 
 
-🛠️ Languages & Tools
-
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
+GTM Attribution Engine — Python dbt Claude API
 
 
-📌 Featured Projects
+Multi-touch attribution comparing Last Touch, Linear, Markov Chain & Shapley Value models. Claude API layer auto-generates executive narratives and budget recommendations.
 
-ProjectDescriptionStack🤖 NL-to-SQL AgentProduction AI agent — plain-English → validated SQL with human-in-the-loop reviewClaude API · Snowflake · Streamlit🎯 GTM Attribution EngineMulti-touch attribution + AI-generated executive narratives & budget recommendationsPython · dbt · Claude API📊 Growth Intelligence PipelineB2B lead sourcing, enrichment & scoring pipelinePython · Yelp Fusion API📈 Revenue Forecasting Dashboard30-180 day scenario forecasting with seasonality decompositionPython · Prophet · Streamlit💰 Pricing OptimizationML-based profit leakage identification — $182K margin upliftPython · scikit-learn · XGBoost📉 Superstore ProfitabilityPower BI + SQL profitability analysis across categoriesPower BI · SQL · DAX
+
+
+Growth Intelligence Pipeline — Python Yelp Fusion API
+
+
+End-to-end B2B lead sourcing, enrichment & scoring pipeline built for Groupon case study. Includes validation framework and SDR pitch generation.
+
+
+
+Revenue Forecasting Dashboard — Python Prophet Streamlit
+
+
+30–180 day scenario forecasting with seasonality decomposition and plain-language insights. Replaced manual Excel-based planning.
+
+
+
+Pricing Optimization Simulation — Python scikit-learn XGBoost
+
+
+ML-based profit leakage identification on a $2.3M retail dataset. Estimated $182K margin uplift through discount optimization.
+
+
+
+Superstore Profitability Dashboard — Power BI SQL DAX
+
+
+Power BI + SQL profitability analysis across categories and sub-categories with pricing simulation insights.
+
+
+
+
+🛠️ Stack
+
+Languages: Python · SQL · DAX
+
+Data & Warehousing: Snowflake · dbt · PostgreSQL · SAP
+
+AI & Agents: Anthropic Claude API · LangChain · Streamlit · scikit-learn · XGBoost · Prophet · SHAP
+
+BI & Visualization: Power BI (Advanced DAX) · Tableau
+
+GTM Systems: Salesforce · Oracle Eloqua · ZoomInfo
 
 
 📊 Key Impact
@@ -46,24 +73,19 @@ ProjectDescriptionStack🤖 NL-to-SQL AgentProduction AI agent — plain-English
 ⚡ 10+ hrs/week eliminated through production AI agent deployment
 📈 15% forecast accuracy improvement through Python modeling
 📉 8% monthly churn reduction via ML-based retention targeting
+💡 $182K margin uplift identified through pricing simulation
 
 
 
 🎓 Education & Certifications
 
-
 🎓 MBA (Marketing) + MS (MIS) — University of Pittsburgh, Katz Graduate School of Business
-✅ Certified Scrum Product Owner (CSPO)
-✅ Lean Six Sigma Green Belt
-✅ Google Data Analytics Professional Certificate
 
+✅ Certified Scrum Product Owner (CSPO) · Lean Six Sigma Green Belt · Google Data Analytics Professional
 
 
 🔗 Connect
 
-Show Image
-Show Image
-Show Image
-
+🌐 tasmiaafroze.com · 💼 LinkedIn · 📧 afrozetasmia19@gmail.com
 
 Open to senior analytics, GTM strategy, and AI-native analytics roles. Open to relocation.
